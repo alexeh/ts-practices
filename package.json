@@ -1,0 +1,19 @@
+{
+  "name": "ts-practices",
+  "version": "1.0.0",
+  "description": "TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeh/ts-practices.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeh/ts-practices/issues"
+  },
+  "homepage": "https://github.com/alexeh/ts-practices#readme"
+}
